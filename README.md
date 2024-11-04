@@ -9,3 +9,17 @@ This version of the repository may have some typos, so don’t hesitate to conta
  ## 🏠 Table of Contents
 - [Awesome Papers](#awesome-papers)
   - [Catastrophic Forgetting](#catastrophic-forgetting)
+
+
+
+
+
+
+
+<!-- ******* 1-Papers ******* -->
+## 📝 Awesome Papers
+<!-- ******* 1.1-Catastrophic Forgetting******* -->
+## 📄 Catastrophic Forgetting
+|  Title  |   Venue  |   Date   |   Code   |   Notes  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**](https://arxiv.org/pdf/2407.20999v2) | arXiv | 2024-07-31 | ! null | Forgetting in Fine-Tuning Foundation Models |
