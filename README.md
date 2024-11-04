@@ -8,9 +8,9 @@ This version of the repository may have some typos, so don’t hesitate to conta
 <!-- ******* 0-Content Table ******* -->
  ## 🏠 Table of Contents
 - [Catastrophic Forgetting](#catastrophic-forgetting)
-   -[Abstract](#abstract)
-   -[Problem Setting](#problem-setting)
-   -[Awesome Papers](#awesome-papers)
+  - [Abstract](#abstract)
+  - [Problem Setting](#problem-setting)
+  - [Awesome Papers](#awesome-papers)
 
 
 
