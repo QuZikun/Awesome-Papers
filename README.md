@@ -7,8 +7,7 @@ This version of the repository may have some typos, so don’t hesitate to conta
 
 <!-- ******* 0-Content Table ******* -->
  ## 🏠 Table of Contents
-- [Awesome Papers](#awesome-papers)
-  - [Catastrophic Forgetting](#catastrophic-forgetting)
+- [Catastrophic Forgetting](#catastrophic-forgetting)
 
 
 
