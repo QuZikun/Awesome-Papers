@@ -22,4 +22,5 @@ This version of the repository may have some typos, so don’t hesitate to conta
 ## 📄 Catastrophic Forgetting
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**](https://arxiv.org/pdf/2407.20999v2) | arXiv | 2024-07-31 | ! null | Forgetting in Fine-Tuning Foundation Models |
+| [**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**](https://arxiv.org/pdf/2407.20999v2) | arXiv | 2024-07-31 | ! null | Forgetting in Fine-Tuning Foundation LLM |
+| [**Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models**](https://arxiv.org/abs/2402.12048) | arXiv | 2024-02-19 | ! null | Ensemble to mitigate forgetting in MLLM|
