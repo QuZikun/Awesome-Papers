@@ -8,12 +8,12 @@ This version of the repository may have some typos, so don’t hesitate to conta
 <!-- ******* 0-Content Table ******* -->
  ## 🏠 Table of Contents
 - [Catastrophic Forgetting](#catastrophic-forgetting)
-  - [Abstract](#abstract)
+  - [Abstract1](#abstract1)
   - [Problem Setting](#problem-setting)
-  - [Awesome Papers](#awesome-papers)
+  - [Awesome Papers](#awesome-papers1)
 -[Diffusion Model](#diffusion-Model)
-  -[Abstract](#abstract)
-  - [Awesome Papers](#awesome-papers)
+  -[Abstract2](#abstract2)
+  - [Awesome Papers2](#awesome-papers2)
 
 
 
