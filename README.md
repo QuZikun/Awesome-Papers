@@ -53,4 +53,4 @@ This version of the repository may have some typos, so don’t hesitate to conta
 ## 📝 Awesome Papers 
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**](https://arxiv.org/abs/2306.03089) | arXiv | 2023-06-05 | https://github.com/aluo-x/BrainDiVE | Brain diffusion |
+| [**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**](https://arxiv.org/abs/2306.03089) | arXiv | 2023-06-05 | https://github.com/aluo-x/BrainDiVE | Brain guided diffusion |
