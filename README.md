@@ -11,7 +11,10 @@ This version of the repository may have some typos, so don’t hesitate to conta
    - [Abstract](#abstract)
    - [Problem Setting](#problem-setting)
    - [Awesome Papers](#awesome-papers)
-
+ - [Diffusion Model](#diffusion-model)
+   - [Awesome Papers (Diffusion)](#awesome-papers(diffusion))
+   
+  
 
 <!-- ******* 1-Catastrophic Forgetting******* -->
 ## 📄 Catastrophic Forgetting
@@ -43,3 +46,11 @@ This version of the repository may have some typos, so don’t hesitate to conta
 | [**A Comprehensive Survey of Continual Learning: Theory, Method and Application**](https://arxiv.org/abs/2302.00487) | arXiv | 2023-01-31 | ! null | Continual Learning in LLM | survey |
 | [**Divide and not forget: Ensemble of selectively trained experts in Continual Learning**](https://arxiv.org/abs/2401.10191) | arXiv | 2024-01-18 | https://github.com/grypesc/SEED | Architecture based method to mitigate CF | harm |
 
+<!-- ******* 2-Diffusion Model******* -->
+## 📄 Diffusion Model
+
+
+## 📝 Awesome Papers (Diffusion)
+|  Title  |   Venue  |   Date   |   Code   |   Notes  |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**](https://arxiv.org/abs/2306.03089) | arXiv | 2023-06-05 | https://github.com/aluo-x/BrainDiVE | Brain diffusion |
