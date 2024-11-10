@@ -11,7 +11,6 @@ This version of the repository may have some typos, so don’t hesitate to conta
   - [Abstract](#abstract)
   - [Problem Setting](#problem-setting)
   - [Awesome Papers](#awesome-papers)
-    
 -[Diffusion Model](#Diffusion-Model)
   -[Abstract](#abstract)
   - [Awesome Papers](#awesome-papers)
