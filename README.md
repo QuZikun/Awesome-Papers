@@ -41,4 +41,4 @@ This version of the repository may have some typos, so don’t hesitate to conta
 | [**Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models**](https://arxiv.org/abs/2402.12048) | arXiv | 2024-02-19 | ! null | Ensemble to mitigate forgetting in MLLM| harm |
 | [**Continual Learning for Large Language Models: A Survey**](https://arxiv.org/pdf/2402.01364) | arXiv | 2024-02-07 | ! null | Continual Learning in LLM | survey |
 | [**A Comprehensive Survey of Continual Learning: Theory, Method and Application**](https://arxiv.org/abs/2302.00487) | arXiv | 2023-01-31 | ! null | Continual Learning in LLM | survey |
-| [**Divide and not forget: Ensemble of selectively trained experts in Continual Learning**](https://arxiv.org/abs/2401.10191) | arXiv | 2024-01-18 | ! null | Architecture based method to mitigate CF | harm |
+| [**Divide and not forget: Ensemble of selectively trained experts in Continual Learning**](https://arxiv.org/abs/2401.10191) | arXiv | 2024-01-18 | https://github.com/grypesc/SEED | Architecture based method to mitigate CF | harm |
