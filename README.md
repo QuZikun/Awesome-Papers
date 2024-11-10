@@ -12,7 +12,7 @@ This version of the repository may have some typos, so don’t hesitate to conta
    - [Problem Setting](#problem-setting)
    - [Awesome Papers](#awesome-papers)
  - [Diffusion Model](#diffusion-model)
-   - [Awesome Papers (Diffusion)](#awesome-papers(diffusion))
+   - [Awesome Papers (Diffusion)](#awesome-papers-diffusion)
    
   
 
