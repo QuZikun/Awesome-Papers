@@ -49,6 +49,8 @@ This version of the repository may have some typos, so don’t hesitate to conta
 <!-- ******* 2-Diffusion Model******* -->
 ## 📄 Diffusion Model
 
+## 🐳Abstract
+> Diffusion models are a subclass of generative models that operationalize the concept of reversing a diffusion process to synthesize data.
 
 ## 📝 Awesome Papers 
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
