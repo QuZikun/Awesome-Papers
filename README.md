@@ -10,10 +10,10 @@ This version of the repository may have some typos, so don’t hesitate to conta
  - [Catastrophic Forgetting](#catastrophic-forgetting)
    - [Abstract in CF](#abstract-of-cf)
    - [Problem Setting](#problem-setting)
-   - [Awesome Papers](#awesome-papers)
+   - [Awesome Papers-0](#awesome-papers-0)
  - [Diffusion Model](#diffusion-model)
    - [Abstract of DM](#abstract-of-dm)
-   - [Awesome Papers](#awesome-papers)
+   - [Awesome Papers-1](#awesome-papers-1)
    
   
 
@@ -38,7 +38,7 @@ This version of the repository may have some typos, so don’t hesitate to conta
 
 <!-- | Self-Supervised Learning | unsupervised pre-training | data-distribution shift | -->
 
-## 📝 Awesome Papers
+## 📝 Awesome Papers-0
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |   Harm or Benefit  |
 |:--------|:--------:|:--------:|:--------:|:--------:| :--------:|
 | [**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**](https://arxiv.org/pdf/2407.20999v2) | arXiv | 2024-07-31 | ! null | Forgetting in Fine-Tuning Foundation LLM | harm |
@@ -55,7 +55,7 @@ This version of the repository may have some typos, so don’t hesitate to conta
 ## 🐳Abstract of DM
 > Diffusion models are a subclass of generative models that operationalize the concept of reversing a diffusion process to synthesize data.
 
-## 📝 Awesome Papers 
+## 📝 Awesome Papers-1 
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Brain Diffusion for Visual Exploration: Cortical Discovery using Large Scale Generative Models**](https://arxiv.org/abs/2306.03089) | arXiv | 2023-06-05 | https://github.com/aluo-x/BrainDiVE | Brain guided diffusion |
