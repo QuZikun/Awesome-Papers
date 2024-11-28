@@ -48,6 +48,7 @@ This version of the repository may have some typos, so don’t hesitate to conta
 | [**Divide and not forget: Ensemble of selectively trained experts in Continual Learning**](https://arxiv.org/abs/2401.10191) | arXiv | 2024-01-18 | https://github.com/grypesc/SEED | Architecture based method to mitigate CF | harm |
 | [**LLACA: MULTIMODAL LARGE LANGUAGECONTINUAL ASSISTANT**](https://arxiv.org/abs/2410.10868) | arXiv | 2024-10-08 | null！ | improvement on EMA | harm |
 | [**Investigating the Catastrophic Forgetting in Multimodal Large Language Models**](https://arxiv.org/pdf/2309.10313) | arXiv | 2023-12-05 | null！ | Survey | harm |
+| [**Mitigating Catastrophic Forgetting in Large Language Models with Forgetting-aware Pruning**](https://openreview.net/pdf?id=fHvh913U1H) | arXiv | 2024-11-08 | null！ | optimizer-based | harm |
 
 <!-- ******* 2-Diffusion Model******* -->
 ## 📄 Diffusion Model
