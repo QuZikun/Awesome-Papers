@@ -47,6 +47,7 @@ This version of the repository may have some typos, so don’t hesitate to conta
 | [**A Comprehensive Survey of Continual Learning: Theory, Method and Application**](https://arxiv.org/abs/2302.00487) | arXiv | 2023-01-31 | ! null | Continual Learning in LLM | survey |
 | [**Divide and not forget: Ensemble of selectively trained experts in Continual Learning**](https://arxiv.org/abs/2401.10191) | arXiv | 2024-01-18 | https://github.com/grypesc/SEED | Architecture based method to mitigate CF | harm |
 | [**LLACA: MULTIMODAL LARGE LANGUAGECONTINUAL ASSISTANT**](https://arxiv.org/abs/2410.10868) | arXiv | 2024-10-08 | null！ | improvement on EMA | harm |
+| [**Investigating the Catastrophic Forgetting in Multimodal Large Language Models**](https://arxiv.org/pdf/2309.10313) | arXiv | 2023-12-05 | null！ | Survey | harm |
 
 <!-- ******* 2-Diffusion Model******* -->
 ## 📄 Diffusion Model
