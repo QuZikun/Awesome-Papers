@@ -10,7 +10,7 @@ This version of the repository may have some typos, so don’t hesitate to conta
  - [Catastrophic Forgetting](#catastrophic-forgetting)
    - [Abstract in CF](#abstract-of-cf)
    - [Problem Setting](#problem-setting)
-   - [Awesome Papers-0](#awesome-papers-0)
+   - [Awesome Papers](#awesome-papers)
  - [Diffusion Model](#diffusion-model)
    - [Abstract of DM](#abstract-of-dm)
    - [Awesome Papers-1](#awesome-papers-1)
@@ -38,7 +38,7 @@ This version of the repository may have some typos, so don’t hesitate to conta
 
 <!-- | Self-Supervised Learning | unsupervised pre-training | data-distribution shift | -->
 
-## 📝 Awesome Papers-0
+## 📝 Awesome Papers
 |  Title  |   Venue  |   Date   |   Code   |   Notes  |   Harm or Benefit  |
 |:--------|:--------:|:--------:|:--------:|:--------:| :--------:|
 | [**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**](https://arxiv.org/pdf/2407.20999v2) | arXiv | 2024-07-31 | ! null | Forgetting in Fine-Tuning Foundation LLM | harm |
