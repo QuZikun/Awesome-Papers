@@ -1,4 +1,4 @@
-# Awesome Papers
+# Awesome-Papers-Forgetting
 
 ## ✨ About
 This repo contains a curated list of **MLLM/LLM/DL/Diffusion** papers.
